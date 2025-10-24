@@ -1,0 +1,332 @@
+{
+  "Lunes": [
+    {
+      "inicio": "08:00",
+      "fin": "10:00",
+      "materia": "Cálculo I",
+      "salon": "A101"
+    },
+    {
+      "inicio": "10:00",
+      "fin": "12:00",
+      "materia": "Programación I",
+      "salon": "A102"
+    },
+    {
+      "inicio": "22:00",
+      "fin": "23:00",
+      "materia": "Álgebra Lineal",
+      "salon": "A103"
+    },
+    {
+      "inicio": "14:00",
+      "fin": "16:00",
+      "materia": "Física I",
+      "salon": "A104"
+    },
+    {
+      "inicio": "16:00",
+      "fin": "18:00",
+      "materia": "Inglés I",
+      "salon": "A105"
+    },
+    {
+      "inicio": "18:00",
+      "fin": "20:00",
+      "materia": "Geometría",
+      "salon": "A106"
+    },
+    {
+      "inicio": "20:00",
+      "fin": "22:00",
+      "materia": "Matemática Avanzada",
+      "salon": "A107"
+    },
+    {
+      "inicio": "07:00",
+      "fin": "08:00",
+      "materia": "Teoría de la Computación",
+      "salon": "A108"
+    },
+    {
+      "inicio": "06:00",
+      "fin": "07:00",
+      "materia": "Fundamentos de Electrónica",
+      "salon": "A109"
+    }
+  ],
+  "Martes": [
+    {
+      "inicio": "08:00",
+      "fin": "10:00",
+      "materia": "Cálculo II",
+      "salon": "B201"
+    },
+    {
+      "inicio": "10:00",
+      "fin": "12:00",
+      "materia": "Programación II",
+      "salon": "B202"
+    },
+    {
+      "inicio": "12:00",
+      "fin": "14:00",
+      "materia": "Estructuras de Datos",
+      "salon": "B203"
+    },
+    {
+      "inicio": "14:00",
+      "fin": "16:00",
+      "materia": "Química",
+      "salon": "B204"
+    },
+    {
+      "inicio": "16:00",
+      "fin": "18:00",
+      "materia": "Literatura",
+      "salon": "B205"
+    },
+    {
+      "inicio": "18:00",
+      "fin": "20:00",
+      "materia": "Estadística",
+      "salon": "B206"
+    },
+    {
+      "inicio": "20:00",
+      "fin": "22:00",
+      "materia": "Economía",
+      "salon": "B207"
+    },
+    {
+      "inicio": "07:00",
+      "fin": "08:00",
+      "materia": "Seguridad de Redes",
+      "salon": "B208"
+    },
+    {
+      "inicio": "06:00",
+      "fin": "07:00",
+      "materia": "Lenguajes Formales",
+      "salon": "B209"
+    }
+  ],
+  "Miércoles": [
+    {
+      "inicio": "08:00",
+      "fin": "10:00",
+      "materia": "Cálculo III",
+      "salon": "C301"
+    },
+    {
+      "inicio": "10:00",
+      "fin": "12:00",
+      "materia": "Programación III",
+      "salon": "C302"
+    },
+    {
+      "inicio": "12:00",
+      "fin": "14:00",
+      "materia": "Bases de Datos",
+      "salon": "C303"
+    },
+    {
+      "inicio": "14:00",
+      "fin": "16:00",
+      "materia": "Análisis Numérico",
+      "salon": "C304"
+    },
+    {
+      "inicio": "16:00",
+      "fin": "18:00",
+      "materia": "Inglés II",
+      "salon": "C305"
+    },
+    {
+      "inicio": "18:00",
+      "fin": "20:00",
+      "materia": "Investigación Operativa",
+      "salon": "C306"
+    },
+    {
+      "inicio": "20:00",
+      "fin": "22:00",
+      "materia": "Psicología",
+      "salon": "C307"
+    },
+    {
+      "inicio": "07:00",
+      "fin": "08:00",
+      "materia": "Visión Artificial",
+      "salon": "C308"
+    },
+    {
+      "inicio": "06:00",
+      "fin": "07:00",
+      "materia": "Sistemas Operativos",
+      "salon": "C309"
+    }
+  ],
+  "Jueves": [
+    {
+      "inicio": "08:00",
+      "fin": "10:00",
+      "materia": "Probabilidad",
+      "salon": "D101"
+    },
+    {
+      "inicio": "10:00",
+      "fin": "12:00",
+      "materia": "Programación Web",
+      "salon": "D102"
+    },
+    {
+      "inicio": "12:00",
+      "fin": "14:00",
+      "materia": "Ingeniería de Software",
+      "salon": "D103"
+    },
+    {
+      "inicio": "14:00",
+      "fin": "16:00",
+      "materia": "Física II",
+      "salon": "D104"
+    },
+    {
+      "inicio": "16:00",
+      "fin": "18:00",
+      "materia": "Lógica",
+      "salon": "D105"
+    },
+    {
+      "inicio": "18:00",
+      "fin": "20:00",
+      "materia": "Compiladores",
+      "salon": "D106"
+    },
+    {
+      "inicio": "20:00",
+      "fin": "22:00",
+      "materia": "Historia de la Ciencia",
+      "salon": "D107"
+    },
+    {
+      "inicio": "07:00",
+      "fin": "08:00",
+      "materia": "Computación Cuántica",
+      "salon": "D108"
+    },
+    {
+      "inicio": "06:00",
+      "fin": "07:00",
+      "materia": "Gestión de Proyectos",
+      "salon": "D109"
+    }
+  ],
+  "Viernes": [
+    {
+      "inicio": "08:00",
+      "fin": "10:00",
+      "materia": "Matemáticas Discretas",
+      "salon": "E201"
+    },
+    {
+      "inicio": "10:00",
+      "fin": "12:00",
+      "materia": "Programación Móvil",
+      "salon": "E202"
+    },
+    {
+      "inicio": "12:00",
+      "fin": "14:00",
+      "materia": "Redes I",
+      "salon": "E203"
+    },
+    {
+      "inicio": "14:00",
+      "fin": "16:00",
+      "materia": "Ética Profesional",
+      "salon": "E204"
+    },
+    {
+      "inicio": "16:00",
+      "fin": "18:00",
+      "materia": "Desarrollo Personal",
+      "salon": "E205"
+    },
+    {
+      "inicio": "18:00",
+      "fin": "20:00",
+      "materia": "Auditoría de Sistemas",
+      "salon": "E206"
+    },
+    {
+      "inicio": "20:00",
+      "fin": "22:00",
+      "materia": "Gestión Empresarial",
+      "salon": "E207"
+    },
+    {
+      "inicio": "07:00",
+      "fin": "08:00",
+      "materia": "Desarrollo de Software",
+      "salon": "E208"
+    },
+    {
+      "inicio": "06:00",
+      "fin": "07:00",
+      "materia": "Aprendizaje Automático",
+      "salon": "E209"
+    }
+  ],
+  "Sábado": [
+    {
+      "inicio": "08:00",
+      "fin": "10:00",
+      "materia": "Taller de Programación",
+      "salon": "F101"
+    },
+    {
+      "inicio": "10:00",
+      "fin": "12:00",
+      "materia": "Robótica",
+      "salon": "F102"
+    },
+    {
+      "inicio": "12:00",
+      "fin": "14:00",
+      "materia": "Inteligencia Artificial",
+      "salon": "F103"
+    },
+    {
+      "inicio": "14:00",
+      "fin": "16:00",
+      "materia": "Base de Datos Avanzada",
+      "salon": "F104"
+    },
+    {
+      "inicio": "16:00",
+      "fin": "18:00",
+      "materia": "Seguridad Informática",
+      "salon": "F105"
+    },
+    {
+      "inicio": "18:00",
+      "fin": "20:00",
+      "materia": "Big Data",
+      "salon": "F106"
+    },
+    {
+      "inicio": "20:00",
+      "fin": "22:00",
+      "materia": "Arte Digital",
+      "salon": "F107"
+    },
+    {
+      "inicio": "07:00",
+      "fin": "08:00",
+      "materia": "Animación 3D",
+      "salon": "F108"
+    }
+  ]
+}

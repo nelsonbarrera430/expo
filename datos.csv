@@ -1,0 +1,55 @@
+Dia,HoraInicio,HoraFin,Materia,Salon
+Lunes,08:00,10:00,Cálculo I,A101
+Lunes,10:00,12:00,Programación I,A102
+Lunes,22:00,23:00,Álgebra Lineal,A103
+Lunes,14:00,16:00,Física I,A104
+Lunes,16:00,18:00,Inglés I,A105
+Martes,08:00,10:00,Cálculo II,B201
+Martes,10:00,12:00,Programación II,B202
+Martes,12:00,14:00,Estructuras de Datos,B203
+Martes,14:00,16:00,Química,B204
+Martes,16:00,18:00,Literatura,B205
+Miércoles,08:00,10:00,Cálculo III,C301
+Miércoles,10:00,12:00,Programación III,C302
+Miércoles,12:00,14:00,Bases de Datos,C303
+Miércoles,14:00,16:00,Análisis Numérico,C304
+Miércoles,16:00,18:00,Inglés II,C305
+Jueves,08:00,10:00,Probabilidad,D101
+Jueves,10:00,12:00,Programación Web,D102
+Jueves,12:00,14:00,Ingeniería de Software,D103
+Jueves,14:00,16:00,Física II,D104
+Jueves,16:00,18:00,Lógica,D105
+Viernes,08:00,10:00,Matemáticas Discretas,E201
+Viernes,10:00,12:00,Programación Móvil,E202
+Viernes,12:00,14:00,Redes I,E203
+Viernes,14:00,16:00,Ética Profesional,E204
+Viernes,16:00,18:00,Desarrollo Personal,E205
+Sábado,08:00,10:00,Taller de Programación,F101
+Sábado,10:00,12:00,Robótica,F102
+Sábado,12:00,14:00,Inteligencia Artificial,F103
+Sábado,14:00,16:00,Base de Datos Avanzada,F104
+Sábado,16:00,18:00,Seguridad Informática,F105
+Lunes,18:00,20:00,Geometría,A106
+Martes,18:00,20:00,Estadística,B206
+Miércoles,18:00,20:00,Investigación Operativa,C306
+Jueves,18:00,20:00,Compiladores,D106
+Viernes,18:00,20:00,Auditoría de Sistemas,E206
+Sábado,18:00,20:00,Big Data,F106
+Lunes,20:00,22:00,Matemática Avanzada,A107
+Martes,20:00,22:00,Economía,B207
+Miércoles,20:00,22:00,Psicología,C307
+Jueves,20:00,22:00,Historia de la Ciencia,D107
+Viernes,20:00,22:00,Gestión Empresarial,E207
+Sábado,20:00,22:00,Arte Digital,F107
+Lunes,07:00,08:00,Teoría de la Computación,A108
+Martes,07:00,08:00,Seguridad de Redes,B208
+Miércoles,07:00,08:00,Visión Artificial,C308
+Jueves,07:00,08:00,Computación Cuántica,D108
+Viernes,07:00,08:00,Desarrollo de Software,E208
+Sábado,07:00,08:00,Animación 3D,F108
+Lunes,06:00,07:00,Fundamentos de Electrónica,A109
+Martes,06:00,07:00,Lenguajes Formales,B209
+Miércoles,06:00,07:00,Sistemas Operativos,C309
+Jueves,06:00,07:00,Gestión de Proyectos,D109
+Viernes,06:00,07:00,Aprendizaje Automático,E209
+
